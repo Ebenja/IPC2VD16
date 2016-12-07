@@ -12,6 +12,6 @@
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
-        Label1.Text = "Metodo 4"
+        Label1.Text = "Metodo 4 modificado"
     End Sub
 End Class
